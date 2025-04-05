@@ -80,5 +80,5 @@
 }
 
 .ig-gallery-image:hover .ig-remove-image {
-    display: block;
+    display: block; /* show remove button on hover */
 }
